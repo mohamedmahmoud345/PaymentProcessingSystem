@@ -1,0 +1,14 @@
+C:\progg\project c#\Demo\CAPaymentSystem\bin\Debug\net9.0\CAPaymentSystem.exe
+C:\progg\project c#\Demo\CAPaymentSystem\bin\Debug\net9.0\CAPaymentSystem.deps.json
+C:\progg\project c#\Demo\CAPaymentSystem\bin\Debug\net9.0\CAPaymentSystem.runtimeconfig.json
+C:\progg\project c#\Demo\CAPaymentSystem\bin\Debug\net9.0\CAPaymentSystem.dll
+C:\progg\project c#\Demo\CAPaymentSystem\bin\Debug\net9.0\CAPaymentSystem.pdb
+C:\progg\project c#\Demo\CAPaymentSystem\obj\Debug\net9.0\CAPaymentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\progg\project c#\Demo\CAPaymentSystem\obj\Debug\net9.0\CAPaymentSystem.AssemblyInfoInputs.cache
+C:\progg\project c#\Demo\CAPaymentSystem\obj\Debug\net9.0\CAPaymentSystem.AssemblyInfo.cs
+C:\progg\project c#\Demo\CAPaymentSystem\obj\Debug\net9.0\CAPaymentSystem.csproj.CoreCompileInputs.cache
+C:\progg\project c#\Demo\CAPaymentSystem\obj\Debug\net9.0\CAPaymentSystem.dll
+C:\progg\project c#\Demo\CAPaymentSystem\obj\Debug\net9.0\refint\CAPaymentSystem.dll
+C:\progg\project c#\Demo\CAPaymentSystem\obj\Debug\net9.0\CAPaymentSystem.pdb
+C:\progg\project c#\Demo\CAPaymentSystem\obj\Debug\net9.0\CAPaymentSystem.genruntimeconfig.cache
+C:\progg\project c#\Demo\CAPaymentSystem\obj\Debug\net9.0\ref\CAPaymentSystem.dll
